@@ -1,0 +1,8 @@
+server:
+  port: 8181
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://test.rdsmaster.cnhz.shishike.com:3306/calm_test?useUnicode=true&amp;characterEncoding=utf-8
+    username: qgd_stf_wt_qa
+    password: PhEG6KP2nHsCnOz9jRfE
